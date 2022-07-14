@@ -4,8 +4,18 @@
     height: 8px;
     border-radius: 50%;
     margin-left: 5px;
+    background: #ff0505;
+}
+
+.dotBA {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-left: 5px;
     background: #1ad869;
 }
+
 .dot2 {
     display: inline-block;
     width: 8px;
